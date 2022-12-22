@@ -1,0 +1,9 @@
+C:\Users\Laptop Market\Desktop\for_test\for_test\bin\Debug\for_test.exe.config
+C:\Users\Laptop Market\Desktop\for_test\for_test\bin\Debug\for_test.exe
+C:\Users\Laptop Market\Desktop\for_test\for_test\bin\Debug\for_test.pdb
+C:\Users\Laptop Market\Desktop\for_test\for_test\obj\Debug\for_test.csprojResolveAssemblyReference.cache
+C:\Users\Laptop Market\Desktop\for_test\for_test\obj\Debug\for_test.Form1.resources
+C:\Users\Laptop Market\Desktop\for_test\for_test\obj\Debug\for_test.Properties.Resources.resources
+C:\Users\Laptop Market\Desktop\for_test\for_test\obj\Debug\for_test.csproj.GenerateResource.Cache
+C:\Users\Laptop Market\Desktop\for_test\for_test\obj\Debug\for_test.exe
+C:\Users\Laptop Market\Desktop\for_test\for_test\obj\Debug\for_test.pdb
